@@ -1,0 +1,18 @@
+[user]
+	name = Gus Monod
+	email = gustave.monod@insa-lyon.fr
+
+[alias]
+	ci = commit
+	st = status
+	br = branch
+  co = checkout
+  sta = stash
+  save = !git stash save -u
+
+[push]
+	default = simple
+
+[core]
+  editor = /usr/bin/vim
+
