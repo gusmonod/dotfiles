@@ -69,8 +69,6 @@ PS1=$PS1" \[\e[m\]\[\e[1;34m\]\W \[\e[m\]"
 
 # make sure utf-8 is used when appropriate
 export LC_CTYPE=en_US.UTF-8
-# allow homebrew to make > 60 requests per hour on the GitHub API
-export HOMEBREW_GITHUB_API_TOKEN="a2bc8cc1ace15368e4423dc32b95d605a35faa64"
 
 # Version Managers
 # ================
